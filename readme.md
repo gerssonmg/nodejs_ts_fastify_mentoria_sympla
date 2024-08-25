@@ -13,3 +13,6 @@ npx tsc --init
 pnpm i fastify
 
 pnpm i prisma -D
+
+pnpm i dotenv
+pnpm i zod
