@@ -16,3 +16,5 @@ pnpm i prisma -D
 
 pnpm i dotenv
 pnpm i zod
+
+pnpm i eslint
