@@ -1,5 +1,5 @@
 import fastity from 'fastify';
-import { usersRoutes } from './http/controllers/user';
+import { usersRoutes } from './http/controllers/usersRoutes';
 
 export const app = fastity();
 
